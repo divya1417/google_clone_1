@@ -1,3 +1,29 @@
+This is a Google Search Clone project built using Next.js, TypeScript, and Tailwind CSS. It mimics the basic functionality and layout of the Google search engine homepage.
+
+🚀 Features
+Google-style homepage UI
+
+Search functionality using the Google Custom Search API
+
+Display of search results with clickable links
+
+Responsive design for mobile and desktop
+
+Modern tech stack with fast performance
+
+🛠️ Tech Stack
+Next.js (React framework)
+
+TypeScript
+
+Tailwind CSS
+
+Google Custom Search API
+
+Vercel (for deployment)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
